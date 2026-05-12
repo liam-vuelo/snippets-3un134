@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liam-vuelo.github.io/snippets-3un134/sitemap.xml
